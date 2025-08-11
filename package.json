@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/KierstinS2024/express-shopping-list/issues"
   },
-  "homepage": "https://github.com/KierstinS2024/express-shopping-list#readme"
+  "homepage": "https://github.com/KierstinS2024/express-shopping-list#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.4"
+  }
 }
