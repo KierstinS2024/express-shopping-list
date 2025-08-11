@@ -1,0 +1,25 @@
+{
+  "name": "express-shopping-list",
+  "version": "1.0.0",
+  "description": "For this exercise we will be building a simple JSON API application where we will store a shopping list. You should use an **array** to store your items in the shopping list.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KierstinS2024/express-shopping-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KierstinS2024/express-shopping-list/issues"
+  },
+  "homepage": "https://github.com/KierstinS2024/express-shopping-list#readme"
+}
